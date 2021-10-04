@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaydypiki
+- 👋 Hi, I’m Carlos Fariña, 21, from LCG
 - 👀 I´m interested on FrontEnd
 - 🌱 I’m currently learning DAW
 <!---
